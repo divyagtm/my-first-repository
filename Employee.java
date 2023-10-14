@@ -6,7 +6,7 @@ class Employee {
 	 private String name;
 	 private int age ;
 	 private String department;
-	 
+	 private String address;
 	
 	 
 	public int getEid() {
